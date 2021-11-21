@@ -29,3 +29,5 @@
 * [Sphero Mini](https://sphero.com/collections/for-home/products/mini-kit)
 <img src="https://cdn.shopify.com/s/files/1/0306/6419/6141/products/MAK_MAIN_update_700x.jpg?v=1615484589" width="400" height="400">
 
+* [3Doodler](https://the3doodler.com/collections/start/products/start-essentials-3d-pen-set?variant=39400347730004)
+<img src="https://cdn.shopify.com/s/files/1/0004/2893/3175/products/Start__3_720x720.jpg?v=1626505110" width="400" height="400">
